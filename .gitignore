@@ -1,0 +1,11 @@
+# binaries
+bin/
+
+# trace files
+*.out
+
+# profile files
+*.prof
+
+# test bash scripts
+*.sh
