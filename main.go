@@ -97,6 +97,7 @@ func main() {
 		{s: 1.5, v: 1.2, imax: 80, count: 100},
 		{s: 1.8, v: 5, imax: 250, count: 500},
 		{s: 2.3, v: 20, imax: 1500, count: 1000},
+		{s: 2.3, v: 200, imax: 5000, count: 10000},
 	}
 
 	for _, t := range tests {

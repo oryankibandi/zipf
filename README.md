@@ -67,12 +67,16 @@ if z == nil {
 
 The following shows sample graphs based on selected parameters.
 
-1. 1000 items. s=2.3, v = 20, imax = 1500
+1. 1000 items. s = 2.3, v = 20, imax = 1500
 
-![Zipf1](media/zipf_1.png)
+![Zipf2](media/zipf_1.png)
 
-2. 500 items. s=1.8, v = 5, imax = 250
+2. 500 items. s = 1.8, v = 5, imax = 250
 
 ![Zipf1](media/zipf_2.png)
 
-Observing the two graphs, a lot of the frequency occurs on a few items, located in the head of the graph. Adjusting imax, v and s changes how the graphs appear.
+3. 10000 items, s = 2.3, v = 200, imax = 5000
+
+![Zipf3](media/zipf_3.png)
+
+Observing the graphs, a lot of the frequency occurs on a few items, located in the head of the graph. Adjusting imax, v and s changes how the graphs appear.
